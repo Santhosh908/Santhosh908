@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Santhosh
 - 👀 I’m interested in learing about new technologies
 - 🌱 I’m currently learning about Web 
-- 📫 How to reach me 
--     Use the below link to connect with me via LinkedIn
+- 📫 To reach me, use the below link to connect with me via LinkedIn
 -     https://www.linkedin.com/in/santhosh-y-431498205/
 
 <!---
